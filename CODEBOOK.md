@@ -8,6 +8,8 @@ For original description of the raw data see:
 
 ### Structure of the final dataset
 
+see: **TidyStructure.jpg** 
+
 ![Tidy dataset](TidyStructure.jpg)
 
 
